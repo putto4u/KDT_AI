@@ -6,7 +6,7 @@
 
 ## 프로젝트 
 
-### 조편성
+### 조편성 : https://docs.google.com/spreadsheets/d/1TjXIXMNwX82cH14gQ-QXNrjIynDO55ExGordy_XH2i8/edit?usp=sharing
 
 ### 주제 : 데이터를 활용하여 데이터분석을 하고 머신러닝이나 딥러닝을 이용해서 AI를 완성 
 
